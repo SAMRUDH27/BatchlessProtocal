@@ -1,73 +1,23 @@
-# Welcome to your Lovable project
+Batchless “Pay In Any Token” Swap Widget
+A simple yet powerful dApp letting users pay any invoice or transaction, even gas fees, with ANY ERC-20 token — the receiver instantly gets whatever token they want! All swaps are powered by Etherlink's ultrafast atomic swaps, so users no longer need to worry about holding the "right" token to pay.
 
-## Project info
+100% Universal Payments: Pay or get paid in your preferred ERC-20 token.
 
-**URL**: https://lovable.dev/projects/0c0b5fd4-0c9e-408b-9ba8-8186b9f197df
+True Batchless Swaps: No queues, no batching—every swap is atomic and instant on Etherlink.
 
-## How can I edit this code?
+Built for Speed: Confirmations are near-instant (<500ms).
 
-There are several ways of editing your application.
+User First: No more "wrong token" errors, no need to keep dozens of tokens.
 
-**Use Lovable**
+Ultra-low Fees: Runs on Etherlink Layer 2—get Ethereum compatibility with Tezos speed and cost.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0c0b5fd4-0c9e-408b-9ba8-8186b9f197df) and start prompting.
+<img width="1919" height="1130" alt="Screenshot 2025-08-02 113102" src="https://github.com/user-attachments/assets/2bf44908-75f7-4e8a-92ea-de161ffd6f9c" />
+<img width="1919" height="1133" alt="Screenshot 2025-08-02 113114" src="https://github.com/user-attachments/assets/7842c85c-d9e7-4f46-be94-f46c16498010" />
 
-Changes made via Lovable will be committed automatically to this repo.
+<img width="1918" height="1107" alt="Screenshot 2025-08-02 113135" src="https://github.com/user-attachments/assets/6bbe3747-1d12-4c7d-97c7-96dc42d07d2d" />
+<img width="1919" height="1137" alt="Screenshot 2025-08-02 113148" src="https://github.com/user-attachments/assets/dcb603fb-c863-426d-8264-5f107d838d24" />
+<img width="1910" height="1137" alt="Screenshot 2025-08-02 113205" src="https://github.com/user-attachments/assets/6283d645-d7f4-4dcc-bacc-752fc42dd70d" />
+<img width="1916" height="1120" alt="Screenshot 2025-08-02 113225" src="https://github.com/user-attachments/assets/eb2d732a-806e-4aca-b39e-24a62bef9f00" />
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0c0b5fd4-0c9e-408b-9ba8-8186b9f197df) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
